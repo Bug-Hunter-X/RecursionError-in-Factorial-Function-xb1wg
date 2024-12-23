@@ -1,0 +1,1 @@
+This repository contains a Python example demonstrating a RecursionError. The `bug.py` file shows the erroneous factorial function that causes a stack overflow when given negative input. The `bugSolution.py` file provides a corrected version that handles the negative input case gracefully.
